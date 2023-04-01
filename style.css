@@ -1,3 +1,11 @@
+body {
+    overflow-x: hidden;
+}
+
+.vh-200 {
+    height: 200vh;
+}
+
 .arrow {
     width: 143px;
     height: 141px;
@@ -9,4 +17,71 @@
 
 .text-green {
     color: #2b666e;
+}
+
+
+
+/* PAGINA 2 */
+.estrategia_arrow {
+    top: 10%
+}
+
+.estrategia_asterisk {
+    left: 35%;
+    top: 40%;
+}
+
+.estrategia_doubleasterisk {
+    right: 10%;
+    bottom: 10%;
+}
+
+.estrategia_triangle {
+    right: 5%;
+    top: 20%;
+}
+
+.estrategia_doublearrow {
+    bottom: 10%;
+    left: 10%;
+}
+
+.pcCurved_arrow {
+    left: 25%;
+    bottom: 30%;
+}
+
+/* 90% */
+.quotation_marks  {
+    left:25%;
+    top: 25%;
+    height: 15%;
+}
+
+.long_line {
+    bottom: 25%;
+    left: 38%;
+}
+
+.small_line {
+    bottom: 35%;
+    right: 20%;
+}
+
+/* FLYWHEEL */
+.crossed_line {
+    top: 25%;
+    left: 10%;
+}
+
+.rounded_diagram {
+    left: 25%; 
+    bottom: 0;
+}
+
+.flywheel_line {
+    bottom: -2%;
+    left: 14%;
+    height: 0.2%;
+    width: auto;
 }
