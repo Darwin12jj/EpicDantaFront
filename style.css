@@ -81,7 +81,60 @@ body {
 
 .flywheel_line {
     bottom: -2%;
-    left: 14%;
+    left: 20%;
     height: 0.2%;
     width: auto;
 }
+
+/* PROCESOS CX */
+.serviciocliente {
+    left: 10%;
+    top: 50%;
+}
+
+/* BUYER PERSONAS */
+.crossed_square {
+    right: 15%;
+    top: 50%;
+}
+
+/* CUSTOMER JOURNEY */
+.crossed_linejourney {
+    right: 15%;
+    top: 25%;
+    max-width: 100%;
+    height: auto;
+}
+
+/* PIPELINE */
+.pipeline {
+    max-width: 80%;
+    height: auto;
+    bottom: -50%;
+}
+
+/* SOMOS EPIC-DANTA */
+.asterisk_weareed {
+    right: 10%;
+    top: 10rem;
+}
+
+.triangle-weareed {
+    top: 20rem;
+    right: 20%;
+}
+
+.doubleA-weareed {
+    bottom: 2rem;
+    left: 10%;
+}
+
+/* EPIC-DANTA->SOLUCIONES */
+.bg-img-borders {
+    background-image: url(Imgs/recuadro-nos.png);
+    background-size: 100% 100%;
+    padding: 4% 5%;
+}
+
+/* SERVICIO AL CLIENTE */
+
