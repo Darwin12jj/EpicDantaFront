@@ -80,8 +80,7 @@ body {
 }
 
 .flywheel_line {
-    bottom: -2%;
-    left: 20%;
+    left: 15%;
     height: 0.2%;
     width: auto;
 }
@@ -137,4 +136,132 @@ body {
 }
 
 /* SERVICIO AL CLIENTE */
+.curled_arrow {
+    right: 30%;
+}
 
+.lineclientservices,
+.bottom_line {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* INBOUND SERVICE */
+.IScrossed_line {
+    top: 20%;
+}
+
+.IScrossed_linesmall {
+    top: 70%;
+    left: 10%;
+}
+
+/* BENEFCIOS DEL INBOUND CUSTOMER SERVICE */
+.double_arrow_inbound {
+    top: 25%;
+}
+
+/* ECOSISTEMA TERRARIUM */
+.asterisk_ecosistema {
+    top: 15%;
+    left: 10%;
+}
+
+.ecosistema_curved_arrow { 
+    top: 25%;
+    right: 10%;
+}
+
+.trangle_ecosistema {
+    bottom: 20%;
+    right: 15%;
+}
+
+.double_asterisk_ecosistema {
+    bottom: 5%;
+    right: 15%;
+}
+
+.double_arrow_ecosistema {
+    bottom: 5%;
+}
+
+/* TERRARIUM */
+.crossed_line_terrarium {
+    top: 20%;
+}
+
+.grafico_terrarium {
+    top: 70%;
+}
+
+.lineclientservice_terrarium {
+    max-width: 100%;
+    height: auto;
+}
+
+/* VENTAS Y CRM */
+.bottom_arrow {
+    bottom: 5%;
+}
+
+.animated_tablet {
+    right: 10%;
+    top: 35%;
+}
+
+.animated_euro {
+    right: 20%;
+    bottom: 20%;
+}
+
+.animated_dollar {
+    left: 15%;
+    bottom: 20%;
+}
+
+.animated_stadistics {
+    left: 5%;
+    top: 40%;
+}
+
+.triangle_ventas {
+    top: 10%;
+    left: 15%;
+}
+
+/* VENTAS */
+.crossed_line_ventas {
+    top: 20%;
+}
+
+/* 4 BENEFICIOS */
+.curled_line_beneficios {
+    top: 25%;
+    right: 15%;
+}
+
+/* CX & BUSINESS INTELLIGENCE */
+.asterisk_cx {
+    top: 10%;
+    left: 10%;
+}
+
+.double_bottom_arrow {
+    bottom: 10%;
+}
+
+.bottom_line {
+    bottom: 0;
+}
+
+.double_asterisk_cx {
+    bottom: 10%;
+    right: 10%;
+}
+
+.triangle_cx {
+    bottom: 35%;
+    right: 20%;
+}
