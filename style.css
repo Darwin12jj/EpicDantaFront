@@ -2,6 +2,14 @@ body {
     overflow-x: hidden;
 }
 
+.gap-10 {
+    gap: 10;
+}
+
+.h-35 {
+    height: 35%;
+}
+
 .vh-200 {
     height: 200vh;
 }
@@ -264,4 +272,67 @@ body {
 .triangle_cx {
     bottom: 35%;
     right: 20%;
+}
+
+/* DATA & INTELIGENCIA */
+.DATAcrossed_line {
+    top: 30%;
+}
+
+.data {
+    left: 65%;
+    top: 65%;
+}
+
+.double_arrow_data {
+    bottom: 0;
+    left: 10%;
+}
+
+.curved_arrow_data {
+    right: 5%;
+}
+
+/* SOCIAL MEDIA */
+.asterisk_social {
+    top: 20%;
+    left: 15%;
+}
+
+.double_asterisk_social {
+    bottom: 5%;
+    left: 10%;
+}
+
+.circle_redsoc {
+    top: 35%;
+}
+
+/* 6 PASOS */
+.bg-6steps1 {
+    background-image: url(Imgs/Grupo\ 275.png);
+    background-size: 100% 100%;
+    height: 30rem;
+    width: 45rem;
+}
+
+.bg-6steps2 {
+    background-image: url(Imgs/Grupo\ 277.png);
+    background-size: 100% 100%;
+    height: 30rem;
+    width: 45rem;
+}
+
+.bg-6steps3 {
+    background-image: url(Imgs/Grupo\ 285.png);
+    background-size: 100% 100%;
+    height: 30rem;
+    width: 45rem;
+}
+
+.bg-6steps4 {
+    background-image: url(Imgs/Grupo\ 283.png);
+    background-size: 100% 100%;
+    height: 30rem;
+    width: 45rem;
 }
