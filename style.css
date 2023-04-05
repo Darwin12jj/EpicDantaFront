@@ -27,6 +27,10 @@ body {
     color: #2b666e;
 }
 
+.cx_logo {
+    right: 7%;
+    top: 10%;
+}
 
 
 /* PAGINA 2 */
@@ -54,9 +58,19 @@ body {
     left: 10%;
 }
 
+.black_circle1 {
+    right: 40%;
+    top: 33%;
+}
+
+.black_circle2 {
+    right: 40%;
+    bottom: 33%;
+}
+
 .pcCurved_arrow {
     left: 25%;
-    bottom: 30%;
+    bottom: 10%;
 }
 
 /* 90% */
@@ -89,8 +103,8 @@ body {
 
 .flywheel_line {
     left: 15%;
-    height: 0.2%;
-    width: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 /* PROCESOS CX */
@@ -143,6 +157,11 @@ body {
     padding: 4% 5%;
 }
 
+.puzzle_img {
+    top: 30%;
+    left: 15%;
+}
+
 /* SERVICIO AL CLIENTE */
 .curled_arrow {
     right: 30%;
@@ -154,6 +173,20 @@ body {
     height: auto;
 }
 
+.double_bubble {
+    bottom: 20%;
+    left: 20%;
+}
+
+.letter_moving {
+    left: 10%;
+    top: 25%;
+}
+
+.double_letter {
+    right: 10%;
+    bottom: 10%;
+}
 
 /* INBOUND SERVICE */
 .IScrossed_line {
@@ -193,6 +226,11 @@ body {
 
 .double_arrow_ecosistema {
     bottom: 5%;
+}
+
+.exclamation_mark {
+    bottom: 10%;
+    left: 15%;
 }
 
 /* TERRARIUM */
@@ -308,6 +346,21 @@ body {
     top: 35%;
 }
 
+.double_bubble_black {
+    left: 20%;
+    top: 50%;
+}
+
+.animate_heart {
+    left: 5%;
+    top: 60%;
+}
+
+.animate_persons {
+    bottom: 20%;
+    left: 20%;
+}
+
 /* 6 PASOS */
 .bg-6steps1 {
     background-image: url(Imgs/Grupo\ 275.png);
@@ -335,4 +388,50 @@ body {
     background-size: 100% 100%;
     height: 30rem;
     width: 45rem;
+}
+
+/* BENEFICIOS IMPORTANTES DE LAS PRINCIPALES REDES SOCIALES */
+.facebook_logo {
+    left: 10%;
+    top: 5%;
+}
+
+.instagram_logo {
+    right: 35%;
+    top: 5%;
+}
+
+.piggy_bank {
+    top: 25%;
+    right: 17%;
+}
+
+.dollar_sign {
+    right: 15%;
+    top: 15%;
+}
+
+.libra_sign {
+    left: 50%;
+    top: 35%;
+}
+
+.star_sign {
+    left: 50%;
+    bottom: 20%;
+}
+
+.asterisk_paid {
+    right: 10%;
+    bottom: 30%;
+}
+
+.euro_sign {
+    bottom: 5%;
+    right: 25%;
+}
+
+.money_dollar {
+    left: 40%;
+    bottom: 10%;
 }
