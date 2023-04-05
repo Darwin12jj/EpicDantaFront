@@ -365,29 +365,29 @@ body {
 .bg-6steps1 {
     background-image: url(Imgs/Grupo\ 275.png);
     background-size: 100% 100%;
-    height: 30rem;
-    width: 45rem;
+    height: 25rem;
+    width: 40rem;
 }
 
 .bg-6steps2 {
     background-image: url(Imgs/Grupo\ 277.png);
     background-size: 100% 100%;
-    height: 30rem;
-    width: 45rem;
+    height: 25rem;
+    width: 40rem;
 }
 
 .bg-6steps3 {
     background-image: url(Imgs/Grupo\ 285.png);
     background-size: 100% 100%;
-    height: 30rem;
-    width: 45rem;
+    height: 25rem;
+    width: 40rem;
 }
 
 .bg-6steps4 {
     background-image: url(Imgs/Grupo\ 283.png);
     background-size: 100% 100%;
-    height: 30rem;
-    width: 45rem;
+    height: 25rem;
+    width: 40rem;
 }
 
 /* BENEFICIOS IMPORTANTES DE LAS PRINCIPALES REDES SOCIALES */
@@ -434,4 +434,43 @@ body {
 .money_dollar {
     left: 40%;
     bottom: 10%;
+}
+
+/* NUESTRO MODELO DE PAUTA TRANSPARENTE */
+.curved_arrow_moldel {
+    top: 36%;
+    left: 30%;
+}
+
+.line_model {
+    top: 25%;
+}
+
+.line_model2 {
+    top: 50%;
+}
+
+.line_model3 {
+    top: 75%;
+}
+
+.little_curved_arrow_moldel {
+    left: 30%;
+    top: 61%;
+}
+
+.black_circle_model1 {
+    top: 56%;
+}
+
+.black_circle_model2 {
+    top: 63%;
+}
+
+.black_circle_model3 {
+    top: 70%;
+}
+
+.little_circle {
+    left: 20%;
 }
