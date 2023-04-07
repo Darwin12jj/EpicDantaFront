@@ -10,6 +10,18 @@ body {
     height: 35%;
 }
 
+.h-5rem {
+    height: 5rem;
+}
+
+.h-75 {
+    height: 75%;
+}
+
+.top-25 {
+    top: 25%;
+}
+
 .vh-200 {
     height: 200vh;
 }
@@ -366,28 +378,28 @@ body {
     background-image: url(Imgs/Grupo\ 275.png);
     background-size: 100% 100%;
     height: 25rem;
-    width: 40rem;
+    width: 35rem;
 }
 
 .bg-6steps2 {
     background-image: url(Imgs/Grupo\ 277.png);
     background-size: 100% 100%;
     height: 25rem;
-    width: 40rem;
+    width: 35rem;
 }
 
 .bg-6steps3 {
     background-image: url(Imgs/Grupo\ 285.png);
     background-size: 100% 100%;
     height: 25rem;
-    width: 40rem;
+    width: 35rem;
 }
 
 .bg-6steps4 {
     background-image: url(Imgs/Grupo\ 283.png);
     background-size: 100% 100%;
     height: 25rem;
-    width: 40rem;
+    width: 35rem;
 }
 
 /* BENEFICIOS IMPORTANTES DE LAS PRINCIPALES REDES SOCIALES */
@@ -473,4 +485,100 @@ body {
 
 .little_circle {
     left: 20%;
+}
+
+/* INBOUND MARKETING */
+.quotation_marks_inbound {
+    left: 15%;
+    top: 20%;
+}
+
+.exclamation_mark_inbound {
+    right: 13%;
+    bottom: 15%;
+}
+
+.triangle_inbound {
+    right: 10%;
+    bottom: 25%;
+}
+
+/* 8 PASOS... */
+.little_circle_8steps {
+    left: 5%;
+}
+
+.line_8steps {
+    max-width: 100%;
+    height: auto;
+}
+
+.double_arrow_8steps { 
+    right: 5%;
+}
+
+
+/* ESTRATEGIA DE CONTENIDOS */
+.asterisk_strategy {
+    top: 30%;
+}
+
+.star_strategy {
+    right: 10%;
+    bottom: 25%;
+}
+
+.very_curved_arrow_strategy {
+    bottom: -15%;
+    left: 15%;
+}
+
+.z-index10 {
+    z-index: 10;
+}
+
+.z-index5 {
+    z-index: 5;
+}
+
+/* 3 TIPOS DE MARKETING DE CONTENIDOS MÁS EFECTIVO */
+.h-w-boxes {
+    height: 25rem;
+    width: 35rem;
+}
+
+.bg-4beneficts1 {
+    background-image: url(Imgs/Grupo\ 275.png);
+    background-size: 100% 100%;
+}
+
+.bg-4beneficts2 {
+    background-image: url(Imgs/Grupo\ 277.png);
+    background-size: 100% 100%;
+}
+
+.bg-4beneficts3 {
+    background-image: url(Imgs/Grupo\ 285.png);
+    background-size: 100% 100%;
+}
+
+.bg-4beneficts4 {
+    background-image: url(Imgs/Grupo\ 307.png);
+    background-size: 100% 100%;
+}
+
+.cursor {
+    right: 0%;
+    bottom: 10%;
+}
+
+/* WEBS & APPS */
+.asterisk_web {
+    top: 30%;
+    left: 15%;
+}
+
+.star_web {
+    bottom: 5%;
+    right: 10%;
 }
