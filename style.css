@@ -582,3 +582,38 @@ body {
     bottom: 5%;
     right: 10%;
 }
+
+/* WEBS & APPS */
+.double_arrow_web {
+    top: 5%;
+    left: 10%;
+}
+
+/* LA PÁGINA WEB LA ANALIZAMOS EN 4 DIMENSIONES */
+.recuadro_nos {
+    background-image: url(Imgs/recuadro-nos.png);
+    background-size: 100% 100%;
+}
+
+/* TECNOLOGÍA PARA EL DESARROLLO WEB */
+.logo-x {
+    left: 15%;
+}
+
+.tecnology_web_crossed_line {
+    top: 15%;
+}
+
+.hubspot_logo {
+    top: 25%;
+}
+
+.wordpress_logo {
+    top: 50%;
+}
+
+.cakePHP {
+    top: 75%;
+}
+
+/* ESTRATEGIA SEO */
