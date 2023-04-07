@@ -617,3 +617,57 @@ body {
 }
 
 /* ESTRATEGIA SEO */
+.animated_stadistics_seo {
+    left: 25%;
+}
+
+.triangle_seo {
+    bottom: 15%;
+    left: 15%;
+}
+
+.tablet_seo {
+    right: 20%;
+    bottom: 5%
+}
+
+.exclamation_mark_seo {
+    right: 10%;
+    bottom: 35%;
+}
+
+/* SOLUCIONES INNOVADORAS */
+.asterisk_solutions {
+    left: 10%;
+    top: 20%;
+}
+
+.double_arrow_solutions {
+    left: 10%;
+    bottom: 5%;
+}
+
+.arrow_right_solutions {
+    top: 15%;
+}
+
+.triangle_solutions {
+    right: 5%;
+    top: 20%;
+}
+
+.double_asterisk_solutions {
+    bottom: 10%;
+    right: 15%;
+}
+
+/* POR QUÉ ELEGIR EPIC DANTA */
+.very_curved_arrow_choose {
+    top: 25%;
+    left: 15%;
+}
+
+.line_choose {
+    top: 15%;
+    left: 45%;
+}
