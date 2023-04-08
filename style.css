@@ -22,6 +22,10 @@ body {
     top: 25%;
 }
 
+.start-25 {
+    left: 25%;
+}
+
 .vh-200 {
     height: 200vh;
 }
@@ -670,4 +674,89 @@ body {
 .line_choose {
     top: 15%;
     left: 45%;
+}
+
+.black_circle_choose1 {
+    top: 15%;
+}
+
+.black_circle_choose2 {
+    top: 37%;
+}
+
+.black_circle_choose3 {
+    top: 58%;
+}
+
+.black_circle_choose4 {
+    top: 80%;
+}
+
+/* CMS */
+.exclamation_mark_cms {
+    right: 15%;
+    top: 20%;
+}
+
+.animated_tablet_cms {
+    bottom: 0;
+    right: 15%;
+}
+
+.triangle_cms {
+    left: 15%;
+}
+
+/* OPERATION HUBS */
+.animated_stadistics_hub {
+    bottom: 0;
+    right: 15%; 
+}
+
+/* SALES HUB */
+.animated_dollar_hub {
+    left: 20%;
+}
+
+/* SERVICE HUB */
+.animate_persons_hub {
+    left: 20%;
+    top: 30%;
+}
+
+.letter_hub {
+    bottom: 0;
+    right: 15%;
+}
+
+/* MARKETING DIGITAL */
+.asterisk_marketing {
+    left: 10%;
+    top: 10%;
+}
+
+.double_arrow_marketing {
+    left: 15%;
+}
+
+.letter_marketing {
+    left: 25%;
+    bottom: 25%;
+}
+
+.triangle_marketing {
+    right: 5%;
+    top: 10%;
+}
+
+.animated_dollar_marketing {
+    right: 2%;
+}
+
+.double_asterisk_marketing {
+    right: 10%;
+}
+
+.animated_stadistics_marketing {
+    right: 25%;
 }
